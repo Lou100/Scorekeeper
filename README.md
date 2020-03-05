@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-Main Activity fScorekeeper app is a app which keeps score for any game involving two teams. The user can increment or decrement the score for each team using Button views. The Scorekeeper app also has a night mode.
+Scorekeeper app is a app which keeps score for any game involving two teams. The user can increment or decrement the score for each team using Button Views. The Scorekeeper app also has a night mode.
 
 # Getting Started
 
